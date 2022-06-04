@@ -2,7 +2,7 @@
 # Owner's Personal Information
 ###########################################################
 # This is your brand name
-brand: "Your Brand"
+brand: "Choe Subeen"
 
 # used for seo meta post author (if it's not defined in post)
 name: "Your Name"
@@ -30,7 +30,7 @@ creative_commons:
 # comment to remove any contact item
 contacts:
   #- github: ""
-  #- email: ""
+  - email: "chltnqls19@gmail.com"
   #- linkedin: ""
   #- twitter: ""
   #- instagram: ""
